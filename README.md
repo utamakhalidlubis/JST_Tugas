@@ -1,2 +1,3 @@
-# JST_Tugas
-ddsd
+Tugas Jaringan Syaraf Tiruan
+Model MLP (Multi Layer Perceptron)
+Model LSTM (Long Short Term Memory)
